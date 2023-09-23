@@ -1,0 +1,699 @@
+[
+  {
+    "Mutation ": "p.Ser4Leu",
+    "Residue number": 4,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Val12Ala",
+    "Residue number": 12,
+    "Score by rubric (manual)": 1
+  },
+  {
+    "Mutation ": "p.Lys14Ile",
+    "Residue number": 14,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Arg31Cys",
+    "Residue number": 31,
+    "Score by rubric (manual)": 1,
+    "Score by scoring function (by Aashna)": 42.85
+  },
+  {
+    "Mutation ": "p.Arg31His",
+    "Residue number": 31,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Arg31Leu",
+    "Residue number": 31,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Ser35Leu",
+    "Residue number": 35
+  },
+  {
+    "Mutation ": "p.Ser42Phe",
+    "Residue number": 42,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Val43Ile",
+    "Residue number": 43,
+    "Score by rubric (manual)": 0.5
+  },
+  {
+    "Mutation ": "p.Ala46Val",
+    "Residue number": 46,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Lys68Glu",
+    "Residue number": 68,
+    "Score by rubric (manual)": 8,
+    "Score by scoring function (by Aashna)": 145.3
+  },
+  {
+    "Mutation ": "p.Pro67Leu",
+    "Residue number": 67,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Arg75Gln",
+    "Residue number": 75,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 232.7
+  },
+  {
+    "Mutation ": "p.Gly85Glu",
+    "Residue number": 85,
+    "Score by rubric (manual)": 9.8
+  },
+  {
+    "Mutation ": "p.Arg117His",
+    "Residue number": 117,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 149.45
+  },
+  {
+    "Mutation ": "p.Arg117Cys",
+    "Residue number": 117,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Ile125Thr",
+    "Residue number": 125,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 99.3
+  },
+  {
+    "Mutation ": "p.Leu130Val",
+    "Residue number": 130,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Ile148Thr",
+    "Residue number": 148,
+    "Score by rubric (manual)": 1,
+    "Score by scoring function (by Aashna)": 175.25
+  },
+  {
+    "Mutation ": "p.Ser158Thr",
+    "Residue number": 158,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Arg170His",
+    "Residue number": 170,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 134
+  },
+  {
+    "Mutation ": "p.Val201Met",
+    "Residue number": 201,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Met212Val",
+    "Residue number": 212,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Met212Val",
+    "Residue number": 212,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Gly213Glu",
+    "Residue number": 213,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Glu217Gly",
+    "Residue number": 217,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 222.15
+  },
+  {
+    "Mutation ": "p.Val232Asp",
+    "Residue number": 232,
+    "Score by rubric (manual)": 1
+  },
+  {
+    "Mutation ": "p.Leu233Val",
+    "Residue number": 233,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Gly239Arg",
+    "Residue number": 239,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Ser256Gly",
+    "Residue number": 256,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Ile269Thr",
+    "Residue number": 269,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Glu279Asp",
+    "Residue number": 279,
+    "Score by rubric (manual)": 1
+  },
+  {
+    "Mutation ": "p.Ile285Phe",
+    "Residue number": 285,
+    "Score by rubric (manual)": 8,
+    "Score by scoring function (by Aashna)": 142.45
+  },
+  {
+    "Mutation ": "p.Asn287Lys",
+    "Residue number": 287,
+    "Score by rubric (manual)": 2,
+    "Score by scoring function (by Aashna)": 270.1
+  },
+  {
+    "Mutation ": "p.Asn287Ser",
+    "Residue number": 287,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Arg297Gln",
+    "Residue number": 297,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 1623.7
+  },
+  {
+    "Mutation ": "p.Arg297Trp",
+    "Residue number": 297,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Ala309Gly",
+    "Residue number": 309,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Ala309Thr",
+    "Residue number": 309,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Leu320Val",
+    "Residue number": 320,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 224.7
+  },
+  {
+    "Mutation ": "p.Arg334Gln",
+    "Residue number": 334,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Arg334Trp",
+    "Residue number": 334,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Arg347Pro",
+    "Residue number": 347,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Met348Lys",
+    "Residue number": 348,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 165.4
+  },
+  {
+    "Mutation ": "p.Ala349Val",
+    "Residue number": 349,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Thr351Ser",
+    "Residue number": 351,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Arg352Trp",
+    "Residue number": 352,
+    "Score by rubric (manual)": 8,
+    "Score by scoring function (by Aashna)": 294.45
+  },
+  {
+    "Mutation ": "p.Arg352Gln",
+    "Residue number": 352,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Ala252Pro",
+    "Residue number": 252,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Thr360Ile",
+    "Residue number": 360,
+    "Score by rubric (manual)": 4,
+    "Score by scoring function (by Aashna)": 249.95
+  },
+  {
+    "Mutation ": "p.Thr388Met",
+    "Residue number": 388,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 256.35
+  },
+  {
+    "Mutation ": "p.Asn396Tyr",
+    "Residue number": 396,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Ala399Val",
+    "Residue number": 399,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Asp443Tyr",
+    "Residue number": 443,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 31
+  },
+  {
+    "Mutation ": "p.Ala455Glu",
+    "Residue number": 445,
+    "Score by rubric (manual)": 8
+  },
+  {
+    "Mutation ": "p.Val456Ala",
+    "Residue number": 456,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Leu467Phe",
+    "Residue number": 467,
+    "Score by rubric (manual)": 9
+  },
+  {
+    "Mutation ": "p.Val470Met",
+    "Residue number": 470,
+    "Score by rubric (manual)": 6.5,
+    "Score by scoring function (by Aashna)": 725.7
+  },
+  {
+    "Mutation ": "p.Glu479Asp",
+    "Residue number": 479,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Ser485Cys",
+    "Residue number": 485,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Ile506Val",
+    "Residue number": 506,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 333.45
+  },
+  {
+    "Mutation ": "p.Ile507Val",
+    "Residue number": 507,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Val520Ile",
+    "Residue number": 520,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 1627.15
+  },
+  {
+    "Mutation ": "p.Glu527Gly",
+    "Residue number": 527,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Lys536Glu",
+    "Residue number": 536,
+    "Score by rubric (manual)": 3,
+    "Score by scoring function (by Aashna)": 170.7
+  },
+  {
+    "Mutation ": "p.Ile539Thr",
+    "Residue number": 539,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Ser549Asn",
+    "Residue number": 549,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 1956.9
+  },
+  {
+    "Mutation ": "p.Gly551Asp",
+    "Residue number": 551,
+    "Score by rubric (manual)": 8
+  },
+  {
+    "Mutation ": "p.Ile556Val",
+    "Residue number": 556,
+    "Score by rubric (manual)": 2,
+    "Score by scoring function (by Aashna)": 94.15
+  },
+  {
+    "Mutation ": "p.Arg560Thr",
+    "Residue number": 560,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Val562Leu",
+    "Residue number": 562,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 226.3
+  },
+  {
+    "Mutation ": "p.Tyr569Asp",
+    "Residue number": 569,
+    "Score by rubric (manual)": 4,
+    "Score by scoring function (by Aashna)": 91.85
+  },
+  {
+    "Mutation ": "p.Gly576Ala",
+    "Residue number": 576,
+    "Score by rubric (manual)": 1,
+    "Score by scoring function (by Aashna)": 478.45
+  },
+  {
+    "Mutation ": "p.Glu588Lys",
+    "Residue number": 588,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Ile618Thr",
+    "Residue number": 618,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Gly622Asp",
+    "Residue number": 622,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 246.8
+  },
+  {
+    "Mutation ": "p.Arg851Gln",
+    "Residue number": 851,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Ile853Val",
+    "Residue number": 853,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Thr854Ile",
+    "Residue number": 854,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Val855Ile",
+    "Residue number": 855,
+    "Score by rubric (manual)": 8,
+    "Score by scoring function (by Aashna)": 145.35
+  },
+  {
+    "Mutation ": "p.Ser912Leu",
+    "Residue number": 912,
+    "Score by rubric (manual)": 4,
+    "Score by scoring function (by Aashna)": 180.9
+  },
+  {
+    "Mutation ": "p.Tyr919Cys",
+    "Residue number": 919,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 180.2
+  },
+  {
+    "Mutation ": "p.Val920Met",
+    "Residue number": 920,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 444.4
+  },
+  {
+    "Mutation ": "p.Val920Leu",
+    "Residue number": 920,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Asp924Asn",
+    "Residue number": 924,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 237.2
+  },
+  {
+    "Mutation ": "p.Gly934Ser",
+    "Residue number": 934,
+    "Score by rubric (manual)": 6.5
+  },
+  {
+    "Mutation ": "p.Val938Leu",
+    "Residue number": 938,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Ser945Leu",
+    "Residue number": 945,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 1047.3
+  },
+  {
+    "Mutation ": "p.Lys951Glu",
+    "Residue number": 951,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Met952Ile",
+    "Residue number": 952,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Leu986Pro",
+    "Residue number": 986,
+    "Score by rubric (manual)": 1,
+    "Score by scoring function (by Aashna)": 519.9
+  },
+  {
+    "Mutation ": "p.Asp979Ala",
+    "Residue number": 979,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Leu997Phe",
+    "Residue number": 997,
+    "Score by rubric (manual)": 7,
+    "Score by scoring function (by Aashna)": 1471.9
+  },
+  {
+    "Mutation ": "p.Ala1009Thr",
+    "Residue number": 1009,
+    "Score by rubric (manual)": 4,
+    "Score by scoring function (by Aashna)": 338.7
+  },
+  {
+    "Mutation ": "p.Pro1013His",
+    "Residue number": 1013,
+    "Score by rubric (manual)": 1
+  },
+  {
+    "Mutation ": "p.Pro1013Leu",
+    "Residue number": 1013,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Tyr1014Cys",
+    "Residue number": 1014,
+    "Score by rubric (manual)": 2,
+    "Score by scoring function (by Aashna)": 76.35
+  },
+  {
+    "Mutation ": "p.Ile1027Thr",
+    "Residue number": 1027,
+    "Score by rubric (manual)": 2,
+    "Score by scoring function (by Aashna)": 42.3
+  },
+  {
+    "Mutation ": "p.Ile1051Val",
+    "Residue number": 1051,
+    "Score by rubric (manual)": 1
+  },
+  {
+    "Mutation ": "p.Phe1052Val",
+    "Residue number": 1052,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 288.55
+  },
+  {
+    "Mutation ": "p.Arg1066His",
+    "Residue number": 1066,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Arg1066Cys",
+    "Residue number": 1066,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Arg1070Trp",
+    "Residue number": 1070,
+    "Score by rubric (manual)": 8
+  },
+  {
+    "Mutation ": "p.Tyr1092His",
+    "Residue number": 1092,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Arg1097His",
+    "Residue number": 1097,
+    "Score by rubric (manual)": 7
+  },
+  {
+    "Mutation ": "p.Ile1139Val",
+    "Residue number": 1139,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Asp1152His",
+    "Residue number": 1152,
+    "Score by rubric (manual)": 2,
+    "Score by scoring function (by Aashna)": 112.55
+  },
+  {
+    "Mutation ": "p.Val1153Glu",
+    "Residue number": 1153,
+    "Score by rubric (manual)": 8
+  },
+  {
+    "Mutation ": "p.Leu1156Phe",
+    "Residue number": 1156,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 654.15
+  },
+  {
+    "Mutation ": "p.Arg1162Gln",
+    "Residue number": 1162,
+    "Score by rubric (manual)": 4,
+    "Score by scoring function (by Aashna)": 304.8
+  },
+  {
+    "Mutation ": "p.Ala1217Val",
+    "Residue number": 1217,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Thr1220Ile",
+    "Residue number": 1220,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Asn1224Lys",
+    "Residue number": 1224,
+    "Score by rubric (manual)": 3
+  },
+  {
+    "Mutation ": "p.Ile1230Thr",
+    "Residue number": 1230,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Ser1235Arg",
+    "Residue number": 1235,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 298.9
+  },
+  {
+    "Mutation ": "p.Gly1237Asp",
+    "Residue number": 1237,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Ala1256Val",
+    "Residue number": 1256,
+    "Score by rubric (manual)": 2
+  },
+  {
+    "Mutation ": "p.Asp1270Asn",
+    "Residue number": 1270,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 117.05
+  },
+  {
+    "Mutation ": "p.Ala1285Val",
+    "Residue number": 1285,
+    "Score by rubric (manual)": 5,
+    "Score by scoring function (by Aashna)": 153.55
+  },
+  {
+    "Mutation ": "p.Val1293Ile",
+    "Residue number": 1293,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Asn1303Lys",
+    "Residue number": 1303,
+    "Score by rubric (manual)": 8,
+    "Score by scoring function (by Aashna)": 2241.15
+  },
+  {
+    "Mutation ": "p.Asn1303Ile",
+    "Residue number": 1303,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Ala1136Thr",
+    "Residue number": 1136,
+    "Score by rubric (manual)": 4
+  },
+  {
+    "Mutation ": "p.Phe1337Val",
+    "Residue number": 1337,
+    "Score by rubric (manual)": 6,
+    "Score by scoring function (by Aashna)": 85.15
+  },
+  {
+    "Mutation ": "p.Met1354Ile",
+    "Residue number": 1354,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Met1354Ile",
+    "Residue number": 1354,
+    "Score by rubric (manual)": 6
+  },
+  {
+    "Mutation ": "p.Ala1364Val",
+    "Residue number": 1364,
+    "Score by rubric (manual)": 5
+  },
+  {
+    "Mutation ": "p.Ile1366Phe",
+    "Residue number": 1366,
+    "Score by rubric (manual)": 8
+  },
+  {
+    "Mutation ": "p.Arg1422Trp",
+    "Residue number": 1422,
+    "Score by rubric (manual)": 2.5
+  },
+  {
+    "Mutation ": "p.Asp1445Asn",
+    "Residue number": 1445,
+    "Score by rubric (manual)": 1,
+    "Score by scoring function (by Aashna)": 16.5
+  }
+]
