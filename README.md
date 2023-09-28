@@ -1,5 +1,13 @@
 # Understanding-SNPs-in-CFTR
 
+## Using the Code
+
+First, install the requirements with "pip install -r requirements.txt"
+
+Next, create the labeled_data files if they are not already created. This can be done with "python3 data/data_preprocessing.py"
+
+From here, you should be able to simply run through the different Jupyter notebooks.
+
 ## Background Information
 
 The following information comes from this [presentation](https://docs.google.com/presentation/d/1xDa77zjvDh7jVBC_ELAdq0k8Vi6ywfcTHIMnW115LP4/edit?usp=sharing).
