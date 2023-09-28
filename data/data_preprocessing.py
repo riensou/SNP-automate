@@ -31,8 +31,8 @@ if False:
     print("Every label in mutation_labels.json corresponds to a label in mutation_values.json:", not data_incorrectly_labeled)
 
 # Create a dictionary to store the data matching the labels to the data
-matched_data = {}
-labeled_data = []
+matched_data, matched_data_1 = {}, {}
+labeled_data, labeled_data_1 = [], []
 for m_l in labels_data:
     labels_str = m_l['Mutation ']
     values_str = convert_to_values_form(labels_str)
@@ -45,15 +45,23 @@ for m_l in labels_data:
         else:
             print("ERROR: Not all inputs have a given manual score")
 
-    # TODO: use rationalized score as a feature? other features?
     matched_data[labels_str] = {"Manual Score": m_l['Score by rubric (manual)'], 
                                 "hbonds before": m_v['hbonds before'], "hbonds after": m_v['hbonds after'],
                                 "contacts before": m_v['contacts before'], "contacts after": m_v['contacts after'],
                                 "clashes before": m_v['clashes before'], "clashes after": m_v['clashes after'],
                                 "interresidual before": m_v['interresidual before'], "interresidual after": m_v['interresidual after'],
-                                "interhelical before": m_v['interhelical before'], "interhelical after": m_v['interhelical after']}
+                                "interhelical before": m_v['interhelical before'], "interhelical after": m_v['interhelical after'],
+                                "rationalized score": m_v['rationalized score']}
     labeled_data.append(matched_data[labels_str])
+
+    matched_data_1[labels_str] = {"Manual Score": m_l['Score by rubric (manual)'], "delta hbonds": m_v['delta hbonds'],
+                                  "delta contacts": m_v['delta contacts'], "delta clashes": m_v['delta clashes'],
+                                  "delta interresidual": m_v['delta interresidual'], "delta interhelical": m_v['delta interhelical']}
+    labeled_data_1.append(matched_data_1[labels_str])
 
 # Save the list of dictionaries to a JSON file using json.dump()
 with open("data/labeled_data.json", "w") as json_file:
     json.dump(labeled_data, json_file)
+
+with open("data/labeled_data_1.json", "w") as json_file:
+    json.dump(labeled_data_1, json_file)
