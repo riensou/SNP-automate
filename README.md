@@ -8,6 +8,12 @@ Next, create the labeled_data files if they are not already created. This can be
 
 From here, you should be able to simply run through the different Jupyter notebooks.
 
+### Data Exploration
+
+### Linear Regression
+
+### Neural Network
+
 ## Background Information
 
 The following information comes from this [presentation](https://docs.google.com/presentation/d/1xDa77zjvDh7jVBC_ELAdq0k8Vi6ywfcTHIMnW115LP4/edit?usp=sharing).

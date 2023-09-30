@@ -56,7 +56,8 @@ for m_l in labels_data:
 
     matched_data_1[labels_str] = {"Manual Score": m_l['Score by rubric (manual)'], "delta hbonds": m_v['delta hbonds'],
                                   "delta contacts": m_v['delta contacts'], "delta clashes": m_v['delta clashes'],
-                                  "delta interresidual": m_v['delta interresidual'], "delta interhelical": m_v['delta interhelical']}
+                                  "delta interresidual": m_v['delta interresidual'], "delta interhelical": m_v['delta interhelical'],
+                                  "rationalized score": m_v['rationalized score']}
     labeled_data_1.append(matched_data_1[labels_str])
 
 # Save the list of dictionaries to a JSON file using json.dump()
