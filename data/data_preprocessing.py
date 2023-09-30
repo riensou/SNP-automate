@@ -30,12 +30,14 @@ if False:
             data_incorrectly_labeled = True
     print("Every label in mutation_labels.json corresponds to a label in mutation_values.json:", not data_incorrectly_labeled)
 
+values_strs = []
 # Create a dictionary to store the data matching the labels to the data
 matched_data, matched_data_1 = {}, {}
 labeled_data, labeled_data_1 = [], []
 for m_l in labels_data:
     labels_str = m_l['Mutation ']
     values_str = convert_to_values_form(labels_str)
+    values_strs.append(values_str)
     m_v = next((m for m in values_data if m[''] == values_str), None)
 
     # TODO: is 'p.Ser35Leu' meant to have a manual score of 0?
@@ -66,3 +68,17 @@ with open("data/labeled_data.json", "w") as json_file:
 
 with open("data/labeled_data_1.json", "w") as json_file:
     json.dump(labeled_data_1, json_file)
+
+test_data = []
+for m_v in values_data:
+    if m_v[''] in values_strs:
+        continue
+    test_data.append({"Mutation": m_v[''], "hbonds before": m_v['hbonds before'], "hbonds after": m_v['hbonds after'],
+                      "contacts before": m_v['contacts before'], "contacts after": m_v['contacts after'],
+                      "clashes before": m_v['clashes before'], "clashes after": m_v['clashes after'],
+                      "interresidual before": m_v['interresidual before'], "interresidual after": m_v['interresidual after'],
+                      "interhelical before": m_v['interhelical before'], "interhelical after": m_v['interhelical after'],
+                      "rationalized score": m_v['rationalized score']})
+    
+with open("data/test_data.json", "w") as json_file:
+    json.dump(test_data, json_file)
