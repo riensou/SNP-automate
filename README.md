@@ -10,9 +10,19 @@ From here, you should be able to simply run through the different Jupyter notebo
 
 ### Data Exploration
 
+This file just gives a basic visualization of the data.
+
+![2dvisualization](https://github.com/riensou/Understanding-SNPs-in-CFTR/assets/90002238/e1ab56a8-f77c-48c1-b827-ea5716139382)
+
+![3dvisualization](https://github.com/riensou/Understanding-SNPs-in-CFTR/assets/90002238/ed1bc5c5-26ac-4db5-b659-5e48c7393b36)
+
 ### Linear Regression
 
+Linear regression achieves a Pearson correlation coefficient of about 0.33. However, notably the $R^2$ score is very negative.
+
 ### Neural Network
+
+While neural networks are able to achieve an $R^2$ score close to 1 on the training data, the model clearly overfits as the evaluation data is abysmal. 
 
 ## Background Information
 
