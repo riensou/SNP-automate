@@ -32,8 +32,8 @@ if False:
 
 values_strs = []
 # Create a dictionary to store the data matching the labels to the data
-matched_data, matched_data_1 = {}, {}
-labeled_data, labeled_data_1 = [], []
+matched_data, matched_data_1, matched_data_clashes = {}, {}, {}
+labeled_data, labeled_data_1, labeled_data_clashes = [], [], []
 for m_l in labels_data:
     labels_str = m_l['Mutation ']
     values_str = convert_to_values_form(labels_str)
@@ -62,12 +62,20 @@ for m_l in labels_data:
                                   "rationalized score": m_v['rationalized score']}
     labeled_data_1.append(matched_data_1[labels_str])
 
+    matched_data_clashes[labels_str] = {"Manual Score": m_l['Score by rubric (manual)'], 
+                                "clashes before": m_v['clashes before'], "clashes after": m_v['clashes after'],
+                                "rationalized score": m_v['rationalized score']}
+    labeled_data_clashes.append(matched_data_clashes[labels_str])
+
 # Save the list of dictionaries to a JSON file using json.dump()
 with open("data/labeled_data.json", "w") as json_file:
     json.dump(labeled_data, json_file)
 
 with open("data/labeled_data_1.json", "w") as json_file:
     json.dump(labeled_data_1, json_file)
+
+with open("data/labeled_data_clashes.json", "w") as json_file:
+    json.dump(labeled_data_clashes, json_file)
 
 test_data = []
 for m_v in values_data:
