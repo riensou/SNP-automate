@@ -1,4 +1,4 @@
-# Understanding-SNPs-in-CFTR
+# SNP-Automate
 
 ## Using the Code
 
